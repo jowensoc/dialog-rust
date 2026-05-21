@@ -4,9 +4,9 @@ This application calls a Ferris Says method where an crab named Ferris will appe
 
 Example
 
- __________________________________________________________
+-----------------
 < Hello, world! >
- ----------------------------------------------------------
+-----------------
         \
          \
             _~^~^~_
